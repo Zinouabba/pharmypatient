@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "versionCode": 2,
+  "apkUrl": "https://github.com/Zinouabba/pharmypatient/releases/download/v1.0.1/pharmy-patient-1.0.1.apk",
+  "sha256": "70dec72e77666fbb1b96db52380a497b6111ab8532db578370e4b8652f3c4a8a",
+  "size": 87767771,
+  "releaseNotes": [
+    "Amélioration des notifications",
+    "Ajout de la date d'expiration CHIFA"
+  ],
+  "mandatory": false
+}
